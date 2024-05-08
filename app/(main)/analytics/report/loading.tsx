@@ -32,7 +32,7 @@ const Loading = () =>{
                 </div>
             </div>
             <div className="w-full flex items-center justify-end text-[13px] text-neutral-400">
-                Date: <Skeleton className="w-12 h-4" />
+                Date : <Skeleton className="w-12 h-4" />
             </div>
             <div className="w-full rounded-md bg-slate-600 p-2  flex flex-col gap-2">
              <Skeleton className="w-full h-[270px] " />
